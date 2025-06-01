@@ -11,7 +11,7 @@ iframe, 무한스크롤, 그룹형/이미지 메뉴 등 복잡한 DOM 구조를 
 
 ---
 
-<img src="images/crawl.png" width="650"/>
+<img src="images/menu.png" width="650"/>
 
 크롤링은 네이버 지도 내 무한 스크롤 영역에서 진행되며,  
 scrollBy 및 scrollHeight 감지를 통해 모든 카페 항목을 탐색한 후,  
@@ -27,4 +27,4 @@ scrollBy 및 scrollHeight 감지를 통해 모든 카페 항목을 탐색한 후
 
 ## 🙋 담당 역할
 
-본인은 크롤링 및 데이터 전처리 파트를 담당하였습니다.
+크롤링 및 데이터 전처리 파트를 담당
